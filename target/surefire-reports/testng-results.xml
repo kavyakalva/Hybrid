@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="10" passed="10">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="285041" started-at="2021-11-20T07:15:53Z" finished-at="2021-11-20T07:20:38Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="285041" started-at="2021-11-20T07:15:53Z" finished-at="2021-11-20T07:20:38Z">
+      <class name="testCases.TC7_Quantity">
+        <test-method status="PASS" signature="ChristmasGift()[pri:0, instance:testCases.TC7_Quantity@14ec4505]" name="ChristmasGift" duration-ms="17516" started-at="2021-11-20T07:18:31Z" finished-at="2021-11-20T07:18:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ChristmasGift -->
+      </class> <!-- testCases.TC7_Quantity -->
+      <class name="testCases.TC9_wishList">
+        <test-method status="PASS" signature="TC9_wishList()[pri:0, instance:testCases.TC9_wishList@358c99f5]" name="TC9_wishList" duration-ms="31199" started-at="2021-11-20T07:19:08Z" finished-at="2021-11-20T07:19:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC9_wishList -->
+      </class> <!-- testCases.TC9_wishList -->
+      <class name="testCases.TC6_18BdayGift">
+        <test-method status="PASS" signature="coffee()[pri:0, instance:testCases.TC6_18BdayGift@e50a6f6]" name="coffee" duration-ms="15710" started-at="2021-11-20T07:18:11Z" finished-at="2021-11-20T07:18:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- coffee -->
+      </class> <!-- testCases.TC6_18BdayGift -->
+      <class name="testCases.TC8_AddGiftCard">
+        <test-method status="PASS" signature="AddGiftCard()[pri:0, instance:testCases.TC8_AddGiftCard@53ca01a2]" name="AddGiftCard" duration-ms="14709" started-at="2021-11-20T07:18:53Z" finished-at="2021-11-20T07:19:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AddGiftCard -->
+      </class> <!-- testCases.TC8_AddGiftCard -->
+      <class name="testCases.TC10_shippingPolicy">
+        <test-method status="PASS" signature="coffee()[pri:0, instance:testCases.TC10_shippingPolicy@3ee0fea4]" name="coffee" duration-ms="23107" started-at="2021-11-20T07:19:44Z" finished-at="2021-11-20T07:20:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- coffee -->
+      </class> <!-- testCases.TC10_shippingPolicy -->
+      <class name="testCases.TC11_corporateGifts">
+        <test-method status="PASS" signature="corGifts(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:testCases.TC11_corporateGifts@48524010]" name="corGifts" duration-ms="17985" started-at="2021-11-20T07:20:15Z" data-provider="getdata" finished-at="2021-11-20T07:20:33Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[kavya]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[kavya@gmail.com]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[number]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[yes hello excuse me]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- corGifts -->
+      </class> <!-- testCases.TC11_corporateGifts -->
+      <class name="testCases.TC3_Gifts">
+        <test-method status="PASS" signature="coffee()[pri:0, instance:testCases.TC3_Gifts@17c1bced]" name="coffee" duration-ms="22416" started-at="2021-11-20T07:16:44Z" finished-at="2021-11-20T07:17:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- coffee -->
+      </class> <!-- testCases.TC3_Gifts -->
+      <class name="testCases.TC4_GiftNote">
+        <test-method status="PASS" signature="GiftNote()[pri:0, instance:testCases.TC4_GiftNote@2d9d4f9d]" name="GiftNote" duration-ms="31910" started-at="2021-11-20T07:17:09Z" finished-at="2021-11-20T07:17:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- GiftNote -->
+      </class> <!-- testCases.TC4_GiftNote -->
+      <class name="testCases.TC5_pincode">
+        <test-method status="PASS" signature="ChristmasGift()[pri:0, instance:testCases.TC5_pincode@4034c28c]" name="ChristmasGift" duration-ms="22160" started-at="2021-11-20T07:17:45Z" finished-at="2021-11-20T07:18:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ChristmasGift -->
+      </class> <!-- testCases.TC5_pincode -->
+      <class name="testCases.TC2_coffeeMug">
+        <test-method status="PASS" signature="coffee()[pri:0, instance:testCases.TC2_coffeeMug@161b062a]" name="coffee" duration-ms="50673" started-at="2021-11-20T07:15:53Z" finished-at="2021-11-20T07:16:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- coffee -->
+      </class> <!-- testCases.TC2_coffeeMug -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
